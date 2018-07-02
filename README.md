@@ -1,0 +1,2 @@
+
+`mosquito-seed` config repo
